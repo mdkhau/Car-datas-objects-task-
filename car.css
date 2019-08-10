@@ -1,0 +1,41 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+h1{
+	color:rgb(109, 45, 45);
+	font-size:50px;
+	line-height: 1.6em;
+    padding-top:30px;
+}
+#shuvo {
+  display: flex;
+}
+
+    input {
+        width: 10rem;
+        height: 2rem;
+        padding: 0.8rem;
+        border: 2px solid rgb(158, 39, 39);
+        
+      }
+      label {
+        display: inline-block;
+        font-size: 1.6rem;
+        width: 15rem;
+      }
+      .carProperties{
+        margin: 1rem;
+      }
+      #find {
+        margin-left: 10rem;
+      }
+      section {
+        margin-top: 3rem;
+      }
+      
+      
